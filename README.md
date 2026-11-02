@@ -4,7 +4,7 @@ Captura planetaria y lunar para el ecosistema Zenith Astro Code.
 
 [Descargar instaladores y actualizaciones](https://github.com/eduardomg1499/zenith-capture/releases/latest) · [Zenith Astro Code](https://www.zenith-astro.com)
 
-Este repositorio contiene instaladores públicos y el manifiesto de actualización. El código y los asistentes de publicación se mantienen en el repositorio privado de desarrollo.
+Este repositorio contiene instaladores públicos y el manifiesto de actualización.
 
 ## macOS
 
